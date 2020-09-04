@@ -1,3 +1,8 @@
+## Demo App
+https://myreactapps.000webhostapp.com/
+
+## Please add your own firebase script inside of " Config folder " ===> " fire.js " 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
